@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "andrews",
+    "oncran": true
+  },
+  {
     "package": "plot.matrix",
     "oncran": true
   },

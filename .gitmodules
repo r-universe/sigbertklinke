@@ -8,6 +8,11 @@
 	url = https://github.com/sigbertklinke/abbreviate
 	shallow = true
 	registered = true
+[submodule "andrews"]
+	path = andrews
+	url = https://github.com/sigbertklinke/andrews
+	shallow = true
+	registered = true
 [submodule "plot.matrix"]
 	path = plot.matrix
 	url = https://github.com/sigbertklinke/plot.matrix
