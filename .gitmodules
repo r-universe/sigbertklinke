@@ -13,13 +13,38 @@
 	url = https://github.com/sigbertklinke/andrews
 	shallow = true
 	registered = true
+[submodule "demoShiny"]
+	path = demoShiny
+	url = https://github.com/sigbertklinke/demoshiny
+	shallow = true
+	registered = true
+[submodule "HKRbook"]
+	path = HKRbook
+	url = https://github.com/sigbertklinke/hkrbook
+	shallow = true
+	registered = true
+[submodule "mmstat4"]
+	path = mmstat4
+	url = https://github.com/sigbertklinke/mmstat4
+	shallow = true
+	registered = true
 [submodule "plot.matrix"]
 	path = plot.matrix
 	url = https://github.com/sigbertklinke/plot.matrix
 	shallow = true
 	registered = true
+[submodule "rmdwc"]
+	path = rmdwc
+	url = https://github.com/sigbertklinke/rmdwc
+	shallow = true
+	registered = true
 [submodule "rscc"]
 	path = rscc
 	url = https://github.com/sigbertklinke/rscc
+	shallow = true
+	registered = true
+[submodule "smvgraph"]
+	path = smvgraph
+	url = https://github.com/sigbertklinke/smvgraph
 	shallow = true
 	registered = true

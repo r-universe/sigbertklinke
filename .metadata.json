@@ -8,11 +8,31 @@
     "oncran": true
   },
   {
+    "package": "demoShiny",
+    "oncran": true
+  },
+  {
+    "package": "HKRbook",
+    "oncran": true
+  },
+  {
+    "package": "mmstat4",
+    "oncran": true
+  },
+  {
     "package": "plot.matrix",
     "oncran": true
   },
   {
+    "package": "rmdwc",
+    "oncran": true
+  },
+  {
     "package": "rscc",
+    "oncran": true
+  },
+  {
+    "package": "smvgraph",
     "oncran": true
   }
 ]
