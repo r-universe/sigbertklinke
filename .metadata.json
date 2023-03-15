@@ -1,10 +1,10 @@
 [
   {
-    "package": "andrews",
+    "package": "abbreviate",
     "oncran": true
   },
   {
-    "package": "abbreviate",
+    "package": "andrews",
     "oncran": true
   },
   {
