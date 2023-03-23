@@ -23,6 +23,11 @@
 	url = https://github.com/sigbertklinke/hkrbook
 	shallow = true
 	registered = true
+[submodule "listArray"]
+	path = listArray
+	url = https://github.com/cran/listArray
+	shallow = true
+	registered = true
 [submodule "mmstat4"]
 	path = mmstat4
 	url = https://github.com/sigbertklinke/mmstat4
