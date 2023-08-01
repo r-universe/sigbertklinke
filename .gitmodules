@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "HKRbook"]
+	path = HKRbook
+	url = https://github.com/sigbertklinke/hkrbook
 [submodule "abbreviate"]
 	path = abbreviate
 	url = https://github.com/sigbertklinke/abbreviate
@@ -11,9 +14,6 @@
 [submodule "demoShiny"]
 	path = demoShiny
 	url = https://github.com/sigbertklinke/demoshiny
-[submodule "HKRbook"]
-	path = HKRbook
-	url = https://github.com/sigbertklinke/hkrbook
 [submodule "listArray"]
 	path = listArray
 	url = https://github.com/cran/listArray
