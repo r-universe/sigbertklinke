@@ -32,3 +32,6 @@
 [submodule "smvgraph"]
 	path = smvgraph
 	url = https://github.com/sigbertklinke/smvgraph
+[submodule "stranslate"]
+	path = stranslate
+	url = https://github.com/sigbertklinke/stranslate
