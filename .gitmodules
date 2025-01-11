@@ -17,6 +17,9 @@
 [submodule "exams.forge"]
 	path = exams.forge
 	url = https://github.com/cran/exams.forge
+[submodule "exams.forge.data"]
+	path = exams.forge.data
+	url = https://github.com/sigbertklinke/exams.forge.data
 [submodule "listArray"]
 	path = listArray
 	url = https://github.com/cran/listArray
