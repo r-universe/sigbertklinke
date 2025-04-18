@@ -35,6 +35,9 @@
 [submodule "rscc"]
 	path = rscc
 	url = https://github.com/sigbertklinke/rscc
+[submodule "shinyDTC"]
+	path = shinyDTC
+	url = https://github.com/sigbertklinke/shinydtc
 [submodule "smvgraph"]
 	path = smvgraph
 	url = https://github.com/sigbertklinke/smvgraph
