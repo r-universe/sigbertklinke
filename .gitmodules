@@ -16,7 +16,7 @@
 	url = https://github.com/sigbertklinke/demoshiny
 [submodule "exams.forge"]
 	path = exams.forge
-	url = https://github.com/cran/exams.forge
+	url = https://github.com/sigbertklinke/exams.forge
 [submodule "exams.forge.data"]
 	path = exams.forge.data
 	url = https://github.com/sigbertklinke/exams.forge.data
