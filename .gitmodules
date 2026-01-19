@@ -20,6 +20,9 @@
 [submodule "exams.forge.data"]
 	path = exams.forge.data
 	url = https://github.com/sigbertklinke/exams.forge.data
+[submodule "extraDistr"]
+	path = extraDistr
+	url = https://github.com/sigbertklinke/extradistr
 [submodule "listArray"]
 	path = listArray
 	url = https://github.com/cran/listArray
